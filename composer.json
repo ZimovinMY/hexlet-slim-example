@@ -1,0 +1,15 @@
+{
+    "name": "dexter/hexlet-web",
+    "autoload": {
+        "psr-4": {
+            "Dexter\\HexletWeb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZimovinMY",
+            "email": "misch.zimowin2013@mail.ru"
+        }
+    ],
+    "require": {}
+}
