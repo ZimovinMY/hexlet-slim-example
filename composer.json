@@ -1,8 +1,8 @@
 {
-    "name": "dexter/hexlet-web",
+    "name": "dexter/hexlet-slim-example",
     "autoload": {
         "psr-4": {
-            "Dexter\\HexletWeb\\": "src/"
+            "Dexter\\HexletSlimExample\\": "src/"
         }
     },
     "authors": [
